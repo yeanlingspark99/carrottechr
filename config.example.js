@@ -3,7 +3,7 @@ module.exports = {
 	/**
 	 * Instructions on how to get this: https://redd.it/40zgse
 	 */
-	yourID: "",
+	yourID: "@yeanlingspark99#9276",
 
 	setupCMD: "!createrolemessage",
 
@@ -25,7 +25,7 @@ module.exports = {
 	 */
 	embedFooter: "Role Reactions",
 	
-	roles: ["Hacker", "Artist", "Public Relations", "Intern"],
+	roles: ["],
 
 	/**
 	 * For custom emojis, provide the name of the emoji
