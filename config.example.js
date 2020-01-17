@@ -30,7 +30,7 @@ module.exports = {
 	/**
 	 * For custom emojis, provide the name of the emoji
 	 */
-	reactions: ["💻", "🖌", "😃", "🆕"],
+	reactions: [":CarrotTech:"],
 
 	/**
 	 * Set to "true" if you want all roles to be in a single embed
@@ -63,5 +63,5 @@ module.exports = {
 	 * 
 	 * https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 	 */
-	botToken: ""
+	botToken: "NjY3MTg2Nzg5ODk0NzE3NTAw.XiEWRA.iOx7xzyUBVfWT-XFiOCiCb4tb80"
 };
